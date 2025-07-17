@@ -15,8 +15,6 @@
 
 ---
 
----
-
 ### 🎯 Goal:
 To help enterprise teams **reduce AI implementation and inference costs** by:
 - Selecting optimal LLMs for specific tasks
