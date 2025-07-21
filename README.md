@@ -144,7 +144,7 @@ User Input
 ### 🌐 Deployment Links:
 - **Agent in Lyzr Studio**: [AI Cost Optimizer Agent](https://studio.lyzr.ai/agent/6874e48e6cc2cda0d0a1a195)
 - **Frontend UI (Lovable)**: [AI Cost Optimizer Dashboard](https://v0-ai-cost-optimizer-dashboard.vercel.app/)
-
+- **Demo Video**: [CostMind AI](https://youtu.be/ZSMF07QNa5Q)
 ---
 
 ### 📦 How to Use:
